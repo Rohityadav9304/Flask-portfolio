@@ -9,4 +9,6 @@ The coding Has been Done in Python.
 We have created this API in VS Code with the help of some extensions like Jinja2 .
 ### Modules : 
 Flask ,SQLAlchemy,render_template,request,redirect.
+### API :
+ http://127.0.0.1:8000/
 
